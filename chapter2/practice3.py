@@ -1,0 +1,6 @@
+a = input(" ENter the value of a:")
+c = int(a)
+b= int( input(" ENter the value of b:"))
+print(type(a))
+print(type(b))
+print(c+b)
